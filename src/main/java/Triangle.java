@@ -148,7 +148,7 @@ public class Triangle {
 
         // if triangle is not valid, set triangle type to unknown
         if (!valid) {
-            return "unknown";
+            return "unknown ";
         }
 
         // if triangles sides equal to one another
